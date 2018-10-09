@@ -1,0 +1,41 @@
+.prices{display:flex;justify-content:center;align-items:stretch !important;}
+.plan .plan-header > img{max-height:10em;}
+.infos > .card:hover > .panel-item > .card-img > .mbr-iconfont{color:#d00000 !important;}
+.plan{border:solid 1px transparent;}
+.plan:hover > .plan-body > .mbr-section-btn > button.btn.btn-warning.display-4{background-color:#d00000 !important;border-color:#d00000 !important;}
+.plan:hover{border:solid 1px #d00000;}
+.pricing{line-height:2.3rem;}
+.navbar-logo a{outline:none;}
+.mbr-arrow-up a{
+    padding: 10px;   
+}
+.mbr-arrow-up a{
+    background-color: #007bff;
+    border-radius:100px;
+}
+.mbr-arrow-up a:hover {
+    background-color: #d00000;
+}
+
+.cid-sX6Sa7be1P{padding-top:90px;padding-bottom:90px;background-color:#f1f1f1;}
+.cid-sX6Sa7be1P h4{text-align:left;font-weight:500;}
+.cid-sX6Sa7be1P p{color:#767676;text-align:left;}
+.cid-sX6Sa7be1P .card-img{text-align:left;}
+.cid-sX6Sa7be1P .card-img span{font-size:72px;color:#707070;}
+.cid-sX6Sa7be1P P{color:#4f4943;}
+.cid-sX6Sa7be1P .card-title,
+.cid-sX6Sa7be1P .card-img{color:#149dcc;}
+
+.menu-item-phone {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.menu-item-email {
+    font-size: 1rem;
+    font-weight: bold;
+}
+body {
+    overflow-x: hidden;
+
+}
